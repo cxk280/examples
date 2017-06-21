@@ -1,6 +1,6 @@
 ::  Accepts any noun from dojo and prints it out
 ::
-::::  /hoon/echo/examples/app
+::::  /echo/app/examples
   ::
 /?    310
 !:
